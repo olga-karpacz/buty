@@ -17,11 +17,10 @@
     }
     ul.products li.product .posted-in, ul.products .wc-block-grid__product .posted-in, .wc-block-grid__products li.product .posted-in, .wc-block-grid__products .wc-block-grid__product .posted-in{
         line-height: 1.2em;
+        height: 36px;
     }
     ul.products li.product h2 a, ul.products li.product h3 a, ul.products li.product .woocommerce-loop-product__title a, ul.products li.product .wc-block-grid__product-title a, ul.products .wc-block-grid__product h2 a, ul.products .wc-block-grid__product h3 a, ul.products .wc-block-grid__product .woocommerce-loop-product__title a, ul.products .wc-block-grid__product .wc-block-grid__product-title a, .wc-block-grid__products li.product h2 a, .wc-block-grid__products li.product h3 a, .wc-block-grid__products li.product .woocommerce-loop-product__title a, .wc-block-grid__products li.product .wc-block-grid__product-title a, .wc-block-grid__products .wc-block-grid__product h2 a, .wc-block-grid__products .wc-block-grid__product h3 a, .wc-block-grid__products .wc-block-grid__product .woocommerce-loop-product__title a, .wc-block-grid__products .wc-block-grid__product .wc-block-grid__product-title a{
         line-height: 1.3em;
-    }
-    .product-style-1 ul.products li.product a[class*="product_type_"], .product-style-4 ul.products li.product a[class*="product_type_"], .product-style-6 ul.products li.product a[class*="product_type_"]{
-        line-height: 1.2em;
+        height: 37px;
     }
 }
